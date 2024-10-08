@@ -8,7 +8,11 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pedrojoaodev.com)](https://pedrojoaodev.com)
 [![Github](https://img.shields.io/github/followers/joao21dev?label=Follow&style=social)](https://github.com/joao21dev)
 
-Desenvolvedor de Software apaixonado pelo Frontend com sólido conhecimento em ReactJs, TypeScript e outras tecnologias que uso para criar aplicações Web e Mobile de alto nível e valor. Também possuo grande conhecimento no Backend, onde tenho experiência profissional desenvolvendo aplicações com TypeScript e NestJs. Atualmente trabalho na Devnology IN8, em um time FullStack, desenvolvendo Back e Front seguindo padrões de arquitetura (Microsserviços, Driven Domain Design, Port & Adapters), design principles (SOLID). Atuei também por 8 meses como Frontend numa startup que desenvolve produtos relacionados a Bank as a Service onde era responsável pelo desenvolvimento Frontend de plataformas financeiras. Além disso, também tenho experiência profissional com desenvolvimento Mobile em Flutter e já desenvolvi projetos em React Native.
+I am a Fullstack Developer with strong proficiency in TypeScript/Node and specialization in using frameworks like React (including Next.js and Vite) and Nest.js. Over the past three years, I have been extensively using these technologies to build robust, user-oriented, and high-value applications. I consistently focus on clean architecture practices, decoupled design, and techniques derived from Domain-Driven Design (DDD), ensuring code solidity, quality, and maintainability.
+
+I have significant backend experience with TypeScript/Node using the Nest framework and with Java through the Quarkus platform. In some projects, I had the opportunity to work on maintaining legacy systems in PHP and developing REST APIs to meet different needs, from interfaces and Design Systems to solutions for ID card issuance.
+
+I believe in the importance of solid design principles (SOLID) and architectural patterns like Clean Architecture and Microservices for building robust and scalable systems. I see every new project as an opportunity to push my limits with React and other technologies, and I am always looking for new challenges that allow me to expand my skill set.
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao21dev&show_icons=true&locale=en&layout=compact" alt="joao21dev" />
